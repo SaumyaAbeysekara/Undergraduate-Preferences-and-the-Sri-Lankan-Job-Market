@@ -16,6 +16,12 @@ We want to discover what motivates young Sri Lankans to move or search for oppor
 
 Examining the impact on the Sri Lankan job market based on the preferences of third-year Science Undergraduates in UOC
 
+## Conclusions
+  1. More than half of the sample, which is 58% prefer entering the industry after graduation, while the rest 42% prefer continuing higher studies.
+
+
+  
+
 
 
 
