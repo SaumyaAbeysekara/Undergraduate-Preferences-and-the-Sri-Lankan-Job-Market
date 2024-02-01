@@ -18,6 +18,19 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
 
 ## Conclusions
   1. More than half of the sample, which is 58% prefer entering the industry after graduation, while the rest 42% prefer continuing higher studies.
+  2. A higher fraction of General students and students from the departments of Statistics, Mathematics, ITU, and CGU prefer to enter the industry rather than pursue higher studies.
+  3. The preference has a relationship with the GPA of the students.
+  4. Many students prefer to join the Sri Lankan job market rather than overseas.
+  5. Most of the students are dissatisfied with the current jobs and salaries in Sri Lanka.
+
+
+
+
+
+
+
+
+
 
 
   
