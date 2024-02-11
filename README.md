@@ -22,6 +22,11 @@ Examining the impact on the Sri Lankan job market based on the preferences of th
   3. The preference has a relationship with the GPA of the students.
   4. Many students prefer to join the Sri Lankan job market rather than overseas.
   5. Most of the students are dissatisfied with the current jobs and salaries in Sri Lanka.
+  6. Research degree students expect higher salary ranges, while general degree students expect lower ranges.
+  7. The financial crisis in Sri Lanka, the limitation of jobs in the relevant field, and salary satisfaction are the main causes for students to go overseas.
+  8. Family bonds are the main reason why others tend to stay in Sri Lanka.
+  9. From the students who prefer to go overseas for higher studies, only a few of them wish to return to Sri Lanka after completing their studies.
+  10. Many students are aware of the career guidance unit, but only a few have used the services it offers.
 
 
 
