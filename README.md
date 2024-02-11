@@ -16,6 +16,16 @@ We want to discover what motivates young Sri Lankans to move or search for oppor
 
 Examining the impact on the Sri Lankan job market based on the preferences of third-year Science Undergraduates in UOC
 
+## Data Analysis
+   ### Entering Sri Lankan Industry
+          ![image](https://github.com/DaNukaDi/Undergraduate-Preferences-and-the-Sri-Lankan-Job-Market/assets/154247403/77f49333-47d0-47e2-9348-bb8f42749ed5)
+          ![image](https://github.com/DaNukaDi/Undergraduate-Preferences-and-the-Sri-Lankan-Job-Market/assets/154247403/ee60d004-e985-4797-b556-47fafa633b7c)
+          ![image](https://github.com/DaNukaDi/Undergraduate-Preferences-and-the-Sri-Lankan-Job-Market/assets/154247403/7278e00d-559f-4a4b-a952-b564f5cf245c)
+
+          
+
+
+
 ## Conclusions
   1. More than half of the sample, which is 58% prefer entering the industry after graduation, while the rest 42% prefer continuing higher studies.
   2. A higher fraction of General students and students from the departments of Statistics, Mathematics, ITU, and CGU prefer to enter the industry rather than pursue higher studies.
